@@ -1,4 +1,4 @@
-# Food Express
+# Food Express Console
 #### Essa aplicação foi desenvolvida para colocar em prática os meus conhecimentos de Python.
 <div>
   <p>Aplicação de console a fim de estudos de Python orientado a objetos.</p>
